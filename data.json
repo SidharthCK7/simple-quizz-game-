@@ -1,0 +1,39 @@
+{
+    "question": [
+      "Q1. capital of india",
+      "Q2. prime minister of india?",
+      "Q3. national bird of india?",
+      "Q4. who was the founder of  iphone?"
+      "q5. who was the founder of the microsoft"
+      "q6. who was the winner of 2023 ballon do'r"
+    ],
+    "answer": [
+      3,
+      4,
+      3,
+      2
+    ],
+    "options": [
+  
+      ["Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Bangalore"
+      ],
+      ["sasi",
+        "rahul",
+        "raghavani",
+        "modhiji"
+      ],
+      ["crow",
+        "Pigion",
+        "Goa",
+        "Bihar"
+      ],
+      ["Lucknow",
+        "Agra",
+        "Bhopal",
+        "Delhi"
+      ]
+    ]
+  }
